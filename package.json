@@ -16,7 +16,7 @@
     "reactstrap": "8.10.0",
     "sass": "1.62.1"
   },
-  "homepage": "https://AlmaDianaSotoCervantes.github.io/sotoc_examen_parcial1",
+ 
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
